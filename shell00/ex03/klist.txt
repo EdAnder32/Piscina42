@@ -1,0 +1,5 @@
+﻿Credentials cache: API:0D39EE54-807C-4012-AF23-077926B60106
+        Principal: edander32@42LUANDA.COM
+
+  Issued                Expires               Principal
+Nov  30 22:05:46 2023  Dec  9 22:06:37 2019  krbtgt/42LUANDA.COM@42LUANDA.COM
